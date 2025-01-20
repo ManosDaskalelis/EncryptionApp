@@ -1,6 +1,6 @@
 #Encryption App
 ---
-## This is a simple encycription app made with windows forms
+ This is a simple encycription app made with windows forms
 
 💡 Features
 
